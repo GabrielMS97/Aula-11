@@ -6,6 +6,7 @@ public class Aula11Arquivos01 {
         janelaPasta janela = new janelaPasta();
         janela.setLocationRelativeTo(null);
         janela.setVisible(true);
+        System.out.println("OI");
     }
     
 }
